@@ -1,6 +1,3 @@
-Aqui está o código markdown gerado para o `README.md`:
-
-```markdown
 # Dashboard de Unidades Básicas de Saúde (UBS)
 
 Este projeto é um **dashboard interativo** desenvolvido com **Streamlit** para visualizar a frequência das **Unidades Básicas de Saúde (UBS)** por estado no Brasil.
