@@ -14,7 +14,7 @@ st.title("Dashboard de Unidades Básicas de Saúde (UBS)")
 
 # Gráfico de barras
 grafico = px.bar(df_freq, x='Estado', y='Frequência', 
-                 title='Frequência de UBS por Estado', 
+                 title='Frequência de UBS', 
                  labels={'Estado': 'Estado', 'Frequência': 'Número de UBS'},
                  text_auto=True)
 
