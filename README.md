@@ -80,3 +80,8 @@ Refatorar e aprimorar o **Dashboard de Unidades Básicas de Saúde (UBS)**, impl
     - Descrições adicionais
     - **Nome dos integrantes do grupo**.
     - Dependências do projeto (adicionar no requirements.txt).
+   
+    - ENTREGA DA ATIVIDADE
+    - PEDRO MASTANDREA RA 10389910
+    - REALIZADO AS TAREFAS 1,2 E 3 COM CÓDIGO ATUALIZADO
+    - COMMIT REALIZADO
