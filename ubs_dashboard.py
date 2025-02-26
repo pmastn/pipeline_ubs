@@ -37,8 +37,8 @@ else:
 # # EX 1 Mapa de dispersão
 
 # Substituir vírgulas por pontos e converter para num
-df['LATITUDE'] = df['LATITUDE'].str.replace(',', '.').astype(float)
-df['LONGITUDE'] = df['LONGITUDE'].str.replace(',', '.').astype(float)
+df_filtrado['LATITUDE'] = df_filtrado['LATITUDE'].str.replace(',', '.').astype(float)
+df_filtrado['LONGITUDE'] = df_filtrado['LONGITUDE'].str.replace(',', '.').astype(float)
 
 
 mapa = px.scatter_mapbox(df_filtrado, 
